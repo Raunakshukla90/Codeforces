@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 9 |
+| 14 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [games](#games) (1)
@@ -23,6 +24,12 @@
 - [strings](#strings) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### brute force
 
