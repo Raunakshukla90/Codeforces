@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 10 |
+| 23 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [games](#games) (2)
@@ -33,6 +33,7 @@
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
+| 2259G | [Index Removal](https://codeforces.com/contest/2259/problem/G) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2259/G%20-%20Index%20Removal/solution.cpp) |
 
 ### brute force
 
