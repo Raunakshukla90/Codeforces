@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 10 |
+| 21 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [games](#games) (2)
@@ -31,6 +31,7 @@
 |---|---------|------------|----------|
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### brute force
 
