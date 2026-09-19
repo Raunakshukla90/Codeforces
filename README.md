@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 11 |
+| 30 | 11 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [games](#games) (2)
-- [greedy](#greedy) (8)
-- [implementation](#implementation) (5)
-- [math](#math) (12)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (6)
+- [math](#math) (14)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (4)
@@ -55,6 +55,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
@@ -73,6 +74,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
@@ -87,6 +89,7 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
@@ -97,6 +100,8 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
+| 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
