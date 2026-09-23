@@ -1,20 +1,17 @@
-#include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
+int main(){
+     string a, b;
+    cin >> a >> b;
  
-int main() {
-    string s1, s2;
-    cin >> s1 >> s2;
+    for (int i = 0; i < a.length(); i++) {
+        a[i] = tolower(a[i]);
+        b[i] = tolower(b[i]);
+    }
  
-    // Convert both strings to lowercase
-    for (char &c : s1)
-        c = tolower(c);
- 
-    for (char &c : s2)
-        c = tolower(c);
- 
-    if (s1 < s2)
+    if (a < b)
         cout << -1;
-    else if (s1 > s2)
+    else if (a > b)
         cout << 1;
     else
         cout << 0;
