@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 13 |
+| 37 | 14 |
 
 ---
 
@@ -17,9 +17,10 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [dfs and similar](#dfs-and-similar) (1)
+- [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (15)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (2)
@@ -71,6 +72,12 @@
 |---|---------|------------|----------|
 | 2266G | [Modular Tree](https://codeforces.com/contest/2266/problem/G) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2266/G%20-%20Modular%20Tree/solution.cpp) |
 
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -97,6 +104,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
