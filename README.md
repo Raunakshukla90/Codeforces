@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 14 |
+| 40 | 14 |
 
 ---
 
@@ -15,14 +15,14 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
 - [brute force](#brute-force) (5)
-- [constructive algorithms](#constructive-algorithms) (7)
+- [constructive algorithms](#constructive-algorithms) (8)
 - [dfs and similar](#dfs-and-similar) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (13)
-- [math](#math) (17)
-- [number theory](#number-theory) (4)
+- [math](#math) (18)
+- [number theory](#number-theory) (5)
 - [sortings](#sortings) (2)
 - [strings](#strings) (6)
 - [trees](#trees) (1)
@@ -60,6 +60,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
@@ -91,6 +92,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
@@ -126,6 +128,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
@@ -145,6 +148,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
