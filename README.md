@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 14 |
+| 41 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -44,6 +44,7 @@
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2259G | [Index Removal](https://codeforces.com/contest/2259/problem/G) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2259/G%20-%20Index%20Removal/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### brute force
 
