@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 47 | 14 |
+| 48 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (11)
-- [implementation](#implementation) (18)
+- [implementation](#implementation) (19)
 - [math](#math) (19)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (2)
@@ -121,6 +121,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
