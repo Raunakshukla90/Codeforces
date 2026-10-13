@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 14 |
+| 49 | 15 |
 
 ---
 
@@ -17,9 +17,10 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [implementation](#implementation) (19)
 - [math](#math) (19)
 - [number theory](#number-theory) (5)
@@ -76,6 +77,12 @@
 |---|---------|------------|----------|
 | 2266G | [Modular Tree](https://codeforces.com/contest/2266/problem/G) | Unrated | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/2266/G%20-%20Modular%20Tree/solution.cpp) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+
 ### expression parsing
 
 | # | Problem | Difficulty | Solution |
@@ -94,6 +101,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
