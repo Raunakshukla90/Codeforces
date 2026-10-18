@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 15 |
+| 52 | 15 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (12)
 - [implementation](#implementation) (20)
-- [math](#math) (19)
+- [math](#math) (20)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (2)
 - [strings](#strings) (9)
@@ -146,6 +146,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 1080A | [Petya and Origami](https://codeforces.com/contest/1080/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1080/A%20-%20Petya%20and%20Origami/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
