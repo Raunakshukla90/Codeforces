@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 15 |
+| 54 | 15 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [math](#math) (21)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (2)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 - [trees](#trees) (1)
 
 ---
@@ -187,6 +187,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/43/A%20-%20Football/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Raunakshukla90/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
